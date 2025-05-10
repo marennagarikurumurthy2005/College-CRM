@@ -42,7 +42,7 @@ College_CRM/
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/marennagarikurumurthy2005/College_CRM.git
+   git clone https://github.com/marennagarikurumurthy2005/College-CRM.git
    cd College_CRM/school
    ```
 
